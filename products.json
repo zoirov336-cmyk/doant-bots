@@ -1,0 +1,42 @@
+[
+  {
+    "id": "points100",
+    "name": "100 PlayerPoints",
+    "price": "5 000 so‘m",
+    "commands": [
+      "points give {player} 100"
+    ]
+  },
+  {
+    "id": "points500",
+    "name": "500 PlayerPoints",
+    "price": "20 000 so‘m",
+    "commands": [
+      "points give {player} 500"
+    ]
+  },
+  {
+    "id": "tokenkey1",
+    "name": "1 ta Token Case kaliti",
+    "price": "10 000 so‘m",
+    "commands": [
+      "articases givekey {player} token 1"
+    ]
+  },
+  {
+    "id": "resourcekey1",
+    "name": "1 ta Resource Case kaliti",
+    "price": "8 000 so‘m",
+    "commands": [
+      "articases givekey {player} resource 1"
+    ]
+  },
+  {
+    "id": "vip30",
+    "name": "VIP — 30 kun",
+    "price": "25 000 so‘m",
+    "commands": [
+      "lp user {player} parent set vip"
+    ]
+  }
+]

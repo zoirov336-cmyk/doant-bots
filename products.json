@@ -1,7 +1,7 @@
 [
   {
     "id": "points100",
-    "name": "100 PlayerPoints",
+    "name": "100 Points",
     "price": "5 000 so‘m",
     "commands": [
       "points give {player} 100"
@@ -29,14 +29,83 @@
     "price": "8 000 so‘m",
     "commands": [
       "articases givekey {player} resource 1"
-    ]
-  },
+]
+ },
   {
-    "id": "vip30",
-    "name": "VIP — 30 kun",
-    "price": "25 000 so‘m",
+    "id": "vip32",
+    "name": "IMPERATOR — 30 kun",
+    "price": "86 000 so‘m",
     "commands": [
       "lp user {player} parent set vip"
     ]
-  }
+  {
 ]
+ },
+  {
+    "id": "vip31",
+    "name": "GENERAL — 30 kun",
+    "price": "68 000 so‘m",
+    "commands": [
+      "lp user {player} parent set vip"
+    ]
+  {
+]
+ },
+  {
+    "id": "vip33",
+    "name": "AFSONA — 30 kun",
+    "price": "48 000 so‘m",
+    "commands": [
+      "lp user {player} parent set vip"
+    ]
+  {
+]
+ },
+  {
+    "id": "vip34",
+    "name": "ELITA — 30 kun",
+    "price": "37 000 so‘m",
+    "commands": [
+      "lp user {player} parent set vip"
+    ]
+  {
+]
+ },
+  {
+    "id": "vip35",
+    "name": "TITAN — 30 kun",
+    "price": "29 000 so‘m",
+    "commands": [
+      "lp user {player} parent set vip"
+    ]
+  {
+]
+ },
+  {
+    "id": "vip36",
+    "name": "ALPOMISH — 30 kun",
+    "price": "22 000 so‘m",
+    "commands": [
+      "lp user {player} parent set vip"
+    ]
+  {
+]
+ },
+  {
+    "id": "vip37",
+    "name": "RITSAR — 30 kun",
+    "price": "16 000 so‘m",
+    "commands": [
+      "lp user {player} parent set vip"
+    ]
+  {
+]
+ },
+  {
+    "id": "vip38",
+    "name": "ASKAR — 30 kun",
+    "price": "6 000 so‘m",
+    "commands": [
+      "lp user {player} parent set vip"
+    ]
+  {
